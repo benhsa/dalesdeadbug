@@ -1,0 +1,7 @@
+{
+  "name": "Dale's Dead Bug",
+  "description": "Home of Dale's Dead Bug",
+  "repository": "https://github.com/benhsa/dalesdeadbug",
+  "logo": "",
+  "keywords": ["node", "express", "static"]
+}
