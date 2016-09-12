@@ -16,4 +16,4 @@ RUN cd /src; npm install
 
 EXPOSE 5000
 
-CMD cd /src && node ./app.js
+CMD cd /src && node ./index.js
